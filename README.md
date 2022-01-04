@@ -52,6 +52,7 @@ Various resources to study Cyber Security.
 ## Android pentesting
 
 - Learn
+    Youtube
 - hands-on
 
 ## Networking
