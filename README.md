@@ -53,7 +53,11 @@ Various resources to study Cyber Security.
 
 - Learn
 
-    [Youtube]
+    [Deep Instructor](https://www.youtube.com/playlist?list=PLX58RQdozQg-QSiWA0BhJTVV3hkPk-Z55)
+    
+    [Tutorials Point](https://www.youtube.com/playlist?list=PLWPirh4EWFpESLreb04c4eZoCvJQJrC6H)
+    
+    [BitsPlease](https://www.youtube.com/playlist?list=PLgnrksnL_Rn09gGTTLgi-FL7HxPOoDk3R)
 
 - hands-on
 
@@ -108,6 +112,9 @@ Various resources to study Cyber Security.
     
 
 ## Red Teaming
+
+- Learning
+    [Hacking Articles](https://www.hackingarticles.in/red-teaming/)
 
 ## Others
 
