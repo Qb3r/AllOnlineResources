@@ -125,4 +125,4 @@ Various resources to study Cyber Security.
 
 [rootissh](rootissh.in)
 
-[CCTF Writeups](https://rootissh.in/tagged/rootissh-writeups)
+[CTF Writeups](https://rootissh.in/tagged/rootissh-writeups)
