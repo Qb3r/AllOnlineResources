@@ -43,7 +43,9 @@ Various resources to study Cyber Security.
     
     [API Pentesting Reserves](https://www.notion.so/API-Pentesting-Reserves-475c5c6d79c74b94b6b4834db2c5168b) 
     
-    [](https://pathshala.spinthehack.in/)
+    [SpinTheHack](https://pathshala.spinthehack.in/)
+
+    [Github](https://github.com/inonshk/31-days-of-API-Security-Tips)
     
 - Hands-on
     
